@@ -1,4 +1,4 @@
-Tic Tac Toe game.
+Tic Tac Toe game. PYGAME
 
 Version 1.0 -> Player vs Player.
 
